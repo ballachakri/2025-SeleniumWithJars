@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/
+.idea/libraries/assertj_core_3_27_1.xml
+.idea/libraries/selenium_java_4_27.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
